@@ -3,7 +3,7 @@
 # Task-1 
 
 ## About The Task
-Creating a single page website which will determine our HTML, CSS and Javascript skills.
+Creating a single page website using HTML, CSS and Javascript skills.
 
 ## Tech Stack Used
 
