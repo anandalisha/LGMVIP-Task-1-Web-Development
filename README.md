@@ -13,4 +13,5 @@ Creating a single page website using HTML, CSS and Javascript skills.
 
 ## Live Demo
 
-Visit website https://priceless-swanson-da5215.netlify.app/
+Visit website:
+https://lgmtask1-alishaanand.netlify.app/
